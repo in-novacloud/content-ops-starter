@@ -1,5 +1,5 @@
 ---
-title: The Top Tessons e’ve Leaarned Since Our Initial Launc
+title: Theop Tessons e’ve Leaarned Since Our Initial Launc
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: >-
